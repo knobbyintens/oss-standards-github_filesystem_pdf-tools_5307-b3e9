@@ -6,7 +6,7 @@
       "id": "password-vault",
       "title": "Self-hosted team credential manager",
       "description": "An open-source, self-hostable service or server that stores team credentials (passwords, API keys and secrets) and that password-manager clients can synchronise against. Desktop, mobile and browser client applications and developer libraries are out of scope.",
-      "status": "decided",
+      "status": "pending",
       "requested_by": "Security Engineering",
       "priority": "high"
     },
