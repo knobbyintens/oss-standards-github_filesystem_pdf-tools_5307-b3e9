@@ -1,0 +1,33 @@
+{
+  "cycle": "2026-Q4",
+  "updated_at": "2026-11-01",
+  "categories": [
+    {
+      "id": "password-vault",
+      "title": "Self-hosted team credential manager",
+      "description": "An open-source, self-hostable service or server that stores team credentials (passwords, API keys and secrets) and that password-manager clients can synchronise against. Desktop, mobile and browser client applications and developer libraries are out of scope.",
+      "status": "pending",
+      "requested_by": "Security Engineering",
+      "priority": "high"
+    },
+    {
+      "id": "message-broker",
+      "title": "Message broker for event streaming",
+      "description": "An open-source broker for durable, high-throughput event streaming between internal services.",
+      "status": "decided",
+      "decision_ref": "decisions/message-broker.json"
+    },
+    {
+      "id": "log-shipper",
+      "title": "Log collection agent",
+      "description": "An open-source agent that tails application logs and ships them to a central collector.",
+      "status": "deferred"
+    },
+    {
+      "id": "api-gateway",
+      "title": "API gateway / edge proxy",
+      "description": "An open-source reverse proxy that fronts internal HTTP services.",
+      "status": "deferred"
+    }
+  ]
+}
