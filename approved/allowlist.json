@@ -1,0 +1,17 @@
+{
+  "updated_at": "2026-10-14",
+  "entries": [
+    {
+      "repository": "apache/kafka",
+      "license": "Apache-2.0",
+      "category_id": "message-broker",
+      "recorded_at": "2026-10-14T09:00:00Z"
+    },
+    {
+      "repository": "prometheus/prometheus",
+      "license": "Apache-2.0",
+      "category_id": "metrics",
+      "recorded_at": "2026-03-02T10:00:00Z"
+    }
+  ]
+}
