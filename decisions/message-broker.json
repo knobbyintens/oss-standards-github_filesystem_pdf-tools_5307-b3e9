@@ -1,0 +1,23 @@
+{
+  "category_id": "message-broker",
+  "repository": "apache/kafka",
+  "stars": 31250,
+  "license": "Apache-2.0",
+  "decision": "adopt",
+  "candidates": [
+    {
+      "repository": "apache/kafka",
+      "stars": 31250
+    },
+    {
+      "repository": "nats-io/nats-server",
+      "stars": 17200
+    },
+    {
+      "repository": "rabbitmq/rabbitmq-server",
+      "stars": 13400
+    }
+  ],
+  "rationale": "Highest star count among the eligible brokers and an Apache-2.0 license that is on the pre-approved list.",
+  "recorded_at": "2026-10-14T09:00:00Z"
+}
